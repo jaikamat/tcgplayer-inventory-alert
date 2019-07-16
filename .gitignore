@@ -1,0 +1,9 @@
+#secret stuff
+/.env
+
+#node_modules
+/node_modules
+
+#scrape files and source data
+/raw_data
+/set_data
