@@ -6,5 +6,5 @@ const authToken = process.env.TWILIO_AUTH_TOKEN;
 const client = twilio(accountSid, authToken);
 
 // find the cards that are losing the most inventory
-// limit to a few
+// limit to a few of them
 // send sms
